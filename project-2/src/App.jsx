@@ -1,6 +1,6 @@
 import './App.css'
 import Hero from './components/Hero'
-import Navigation from './components/navigation'
+import Navigation from './components/Navigation'
 import ContactForm from './components/ContactForm'
 function App() {
 
